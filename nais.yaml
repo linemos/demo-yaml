@@ -1,0 +1,5 @@
+image: linemos/demo:1.0
+team: linemos
+prometheus: 
+  enabled: true
+  path: /prometheus
